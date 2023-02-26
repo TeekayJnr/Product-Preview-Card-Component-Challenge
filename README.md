@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/TeekayJnr/product-preview-card-component-main2)
-- Live Site URL: (https://teekayjnr.github.io/product-preview-card-component-main2/)
+- Live Site URL: (https://teekayjnr.github.io/Product-Preview-Card-Component-Challenge/)
 
 ## My process
 
